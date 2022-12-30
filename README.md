@@ -35,7 +35,19 @@ Projeto simples desenvolvido durante o módulo de PHP inciante de um curso da Ud
   <img align="center" src="https://user-images.githubusercontent.com/78514404/210102554-87be83b5-7f7e-4902-8b79-44350b247d3f.PNG" alt="drawing" width="400"/>
 </p>
 
+* 2º - Localize a pasta htdocs do XAMPP, e cole a pasta do projeto dentro dela.
 
+<p>
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/210102970-29c0871f-313f-41e6-8fbf-3b988696b996.PNG" alt="drawing" width="400"/>
+</p>
+
+* 3º Vá ao seu navegador e digite *localhost/App Help Desk*
+
+<p>
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/210103341-da1d0589-101f-45d9-bfbe-b12f4f660779.PNG" alt="drawing" width="400"/>
+</p>
+
+* 4º Para logar no sistema use o **email - lazaro@gmail.com** e **senha - 123456**
 
 ## 🛠️ Construído com
 
